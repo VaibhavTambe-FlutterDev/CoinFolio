@@ -16,9 +16,7 @@ Define your own coin market api key in `lib/view/_product/service/service/servic
 
 ## Screenshots
 
-![Home Screen](path/to/home_screen_screenshot.png)
-![Portfolio Screen](path/to/portfolio_screen_screenshot.png)
-![Trade Screen](path/to/trade_screen_screenshot.png)
+![Portfolio Screen](assets/cover.png)
 
 ## Getting Started
 
@@ -38,7 +36,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/CoinFolio_trading_app.git
+    git clone https://github.com/VaibhavTambe-FlutterDev/CoinFolio_trading_app.git
     ```
 
 2. **Navigate to the project directory:**
