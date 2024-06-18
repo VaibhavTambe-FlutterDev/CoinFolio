@@ -16,7 +16,7 @@ Define your own coin market api key in `lib/view/_product/service/service/servic
 
 ## Screenshots
 
-![CoinFolio Screen](assets/cover.png)
+![CoinFolio Screen](assets/Cover.png)
 
 ## Getting Started
 
